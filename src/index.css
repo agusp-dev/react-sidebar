@@ -5,7 +5,7 @@
   --nav-width: 68px;
 
   --first-color: #881090;
-  --first-color-light: #AFA5D9;
+  --first-color-light: #D4C0D5;
   --white-color: #F7F6FB;
   
   --body-font: 'Nunito', sans-serif;
@@ -16,6 +16,10 @@
 
 *,::before,::after{
   box-sizing: border-box;
+}
+
+.page-container {
+  padding: 0.2rem 0
 }
 
 body{

@@ -1,8 +1,8 @@
 import React from 'react'
 import dashboardIcon from '../../assets/icon-dashboard-24.png'
-import productsIcon from '../../assets/icon-products-24.png'
-import usersIcon from '../../assets/icon-users-24.png'
-import statisticsIcon from '../../assets/icon-chart-24.png'
+import productsIcon from '../../assets/icon-unselected-products-24.png'
+import usersIcon from '../../assets/icon-unselected-users-24.png'
+import statisticsIcon from '../../assets/icon-unselected-chart-24.png'
 
 const Navbar = () => {
   return (
