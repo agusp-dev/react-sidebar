@@ -1,14 +1,11 @@
 import React from 'react'
+import menu from '../assets/icon-menu-24.png'
 
 const Header = () => {
   return (
     <header className="header" id="header">
       <div className="header__toggle">
-        <i className='bx bx-menu' id="header-toggle"></i>
-      </div>
-
-      <div className="header__img">
-        <img src="assets/img/perfil.jpg" alt="" />
+        <img src={ menu } alt='menu'/>
       </div>
     </header>
   )
